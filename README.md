@@ -1,5 +1,3 @@
-# OrgComp
-
 <h2>OneNote</h2>
 OneNote tiene mis apuntes de teoría.
 
